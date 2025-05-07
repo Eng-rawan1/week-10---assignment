@@ -7,17 +7,26 @@ Project Overview
 This project demonstrates the deployment of a full-stack MERN (MongoDB, Express, React, Node.js) blog application to AWS. It includes:
 
 •Frontend hosted on S3 (React + Vite)
+
 •Backend hosted on an EC2 instance
+
 •MongoDB Atlas as the database
+
 • Media storage handled via a dedicated S3 bucket
+
 •PM2 used to ensure backend process persistence
 
 Technologies Used
 •AWS EC2
+
 •AWS S3
+
 •MongoDB Atlas
+
 •PM2
+
 •Vite + React
+
 •Node.js + Express
 
 
