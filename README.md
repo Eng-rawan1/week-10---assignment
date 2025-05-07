@@ -31,6 +31,7 @@ Technologies Used
 
 
 Deployment Steps
+
 1.Clone Project Repositories
 
  • Cloned the project to the EC2 Ubuntu instance.
